@@ -41,7 +41,9 @@ Working on:
 • Heating demand modelling  
 • Photovoltaic generation modelling  
 • Future energy system optimization  
-• Python based data analysis  
+• Python based data analysis 
+• Future City Energy Planning 
+
 
 ## Connect With Me
 
