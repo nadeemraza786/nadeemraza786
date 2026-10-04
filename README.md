@@ -42,7 +42,6 @@ Working on:
 • Photovoltaic generation modelling  
 • Future energy system optimization  
 • Python based data analysis 
-• Future City Energy Planning 
 
 
 
