@@ -8,7 +8,7 @@ I currently work at Fraunhofer ISE in energy systems modelling and optimization,
 
 Previously, I worked at Fraunhofer IFAM on hydrogen storage technologies, metal hydride materials and COMSOL Multiphysics modelling.
 
-My background also includes lithium ion battery testing, electrochemical characterization, catalysis and chemical process engineering.
+My background also includes lithium-ion battery testing, electrochemical characterization, catalysis and chemical process engineering.
 
 ## Research Interests
 
